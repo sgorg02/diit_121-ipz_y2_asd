@@ -1,0 +1,5 @@
+﻿  main.cpp
+  matrix.cpp
+C:\Users\Admin\Documents\Visual Studio 2015\АСД\lab1\class_9\class_9\matrix.cpp(111,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  class_9.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\АСД\lab1\class_9\Debug\class_9.exe
